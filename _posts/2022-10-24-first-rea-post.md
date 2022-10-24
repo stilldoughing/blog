@@ -1,6 +1,10 @@
 ---
-published: false
+layout: post
+title: A post from Navarre Beach
 ---
-## A post from Navarre Beach
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Sourdough pancakes or why there should be no such thing as sourdough discard (shown below).
+
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+If you have sourdough discard, you have wasted flour!
