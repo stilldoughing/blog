@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Stay tuned for more
 published: true
 ---
