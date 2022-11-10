@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A post from Navarre Beach
-published: true
+published: false
 ---
 
 Sourdough pancakes or why there should be no such thing as sourdough discard (shown below).
