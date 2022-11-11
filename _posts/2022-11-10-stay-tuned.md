@@ -4,7 +4,7 @@ title: 2022-11-10 Stay tuned
 published: true
 ---
 
-2022-11-10 Stay tuned.  On this site I will post about my experiences with making 100% wholemeal sourdough bread using flour that I mill myself with a Mockmill 200 grain mill.
+Stay tuned.  On this site I will post about my experiences with making 100% wholemeal sourdough bread using flour that I mill myself with a Mockmill 200 grain mill.
 
 --Just a teaser below about one of the aspect of sourdough bread baking that has consumed me-- so you, gentle reader, may get some idea of the depth of my diseased passion--
 
