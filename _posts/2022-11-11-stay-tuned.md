@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2022-11-10 Stay tuned
+title: 2022-11-11 Stay tuned
 published: true
 ---
 
