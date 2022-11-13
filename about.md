@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My experiences baking sourdough bread using 100% wholemeal flour milled at home with a Mockmill 200 grain mill
 
-### More Information
+### More later -- but not *that* much later hopefully
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I will add some background about this passion of mine for context.  I have mostely my baking notes to work with to cobble together into something that resembles a journal of my experiences-- and I want to take my time with this.
