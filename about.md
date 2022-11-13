@@ -12,5 +12,5 @@ Using *freshly-milled* flour as the total grain bill presented some challenges t
 
 #### More later -- but not *that* much later hopefully
 
-I will add some background about this passion of mine for context. Cobbling together my daily baking notes into something resembling a journal-- hopefully a helpful one for those of wishing to explore this-- is on the top of my to-do list.
+I will add some background about this passion of mine for context. Cobbling together my daily baking notes into something resembling a journal-- hopefully a helpful one for those wishing to explore this-- is on the top of my to-do list.
 
